@@ -5,4 +5,4 @@ Photoshop is the leading graphical image manipulation program. Many designers ev
 
 This class/package fill partly that void by reading Photoshop PSD image files and creating a GD image resource from the Photoshop image bitmaps.
 
-*** Original Class by [Tim de Koning](http://www.phpclasses.org/package/3627-PHP-Open-images-in-the-PhotoShop-PSD-format.html) ***
+** Original Class by [Tim de Koning](http://www.phpclasses.org/package/3627-PHP-Open-images-in-the-PhotoShop-PSD-format.html) **
